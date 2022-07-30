@@ -1,6 +1,6 @@
 # Arroyo Seco Cine Club
-## Header 2
-### Header 3
+## Experimental Film and Video Art Screenings 
+### Hermon Park/Los Angeles 90042
 
 - Bulleted
 - List
